@@ -1,7 +1,8 @@
 # leads-tracker-chrome-extension
 A chrome extension that allows you to save links and tabs while browsing. 
 
-Manually links or Save a links of tabs so that you can refer to them later on. 
+Manually save links or Save links of tabs so that you can refer to them later on. 
+Make use of this extension while browsing for information on something you're working on and need a place to store the leads you come across.
 
 Steps to use it on your Chrome browser:
 
