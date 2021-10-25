@@ -11,6 +11,9 @@ Steps to use it on your Chrome browser:
 6. Use it
 
 Here's how you use it
+
 Click 'SAVE INPUT' button to save a link.
+
 Click 'SAVE TAB' button to save a tab(the link of the tab).
+
 Double click 'DELETE ALL' to clear the links once you're done.
